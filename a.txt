@@ -1,3 +1,6 @@
 public void test(){
  //这是一个方法
 }
+public void test2(){
+ //这是第二个方法
+}
